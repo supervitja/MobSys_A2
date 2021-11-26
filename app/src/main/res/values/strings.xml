@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobSys_A2</string>
+    <string name="default_web_client_id">"860998587668-iqgkohqtpisn606l1nmal1mr26ln5bm7.apps.googleusercontent.com"</string>
+    <string name="signin_button">"Sign In With Google"</string>
+</resources>
